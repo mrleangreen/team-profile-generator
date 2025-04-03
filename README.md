@@ -17,7 +17,7 @@ A Node.js command-line app that builds an HTML team roster. You can enter info f
 Follow the prompts to add team members. When finished, an HTML file will be generated in the `dist` folder.
 
 ## Demo Video
-[Watch the walkthrough here]([https://your-demo-link.com](https://docs.google.com/presentation/d/1PPJiEMs6RXu_Ak9M5vvsqWEH5E5p2naZADvahg7pQjU/edit?slide=id.p#slide=id.p))
+[Watch the walkthrough here]([https://your-demo-link.com](https://docs.google.com/presentation/d/1PPJiEMs6RXu_Ak9M5vvsqWEH5E5p2naZADvahg7pQjU/edit?slide=id.p#slide=id.p)
 
 ## License
 None
